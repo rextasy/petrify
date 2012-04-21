@@ -1,5 +1,5 @@
 
-require.paths.push('/slotsghp-blog/petrify/lib');
+//require.paths.push('/slotsghp-blog/petrify/lib');
 var html_escape = require("petrify").html_escape;
 
 // wait until the navigation and articles views are complete
