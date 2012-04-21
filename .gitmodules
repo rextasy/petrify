@@ -1,18 +1,18 @@
 [submodule "deps/nodeunit"]
 	path = deps/nodeunit
-	url = git://github.com/caolan/nodeunit.git
+	url = git@github.com:rextasy/nodeunit.git
 [submodule "deps/json-template"]
 	path = deps/json-template
-	url = git://github.com/Gozala/json-template.git
+	url = git@github.com:rextasy/json-template.git
 [submodule "deps/markdown-js"]
 	path = deps/markdown-js
-	url = git://github.com/evilstreak/markdown-js.git
+	url = git@github.com:rextasy/markdown-js.git
 [submodule "deps/behaviours"]
 	path = deps/behaviours
-	url = git://github.com/caolan/behaviors.git
+	url = git@github.com:rextasy/behaviors.git
 [submodule "deps/async"]
 	path = deps/async
-	url = git://github.com/caolan/async.git
+	url = git@github.com:rextasy/async.git
 [submodule "deps/wmd"]
 	path = deps/wmd
-	url = git://github.com/caolan/wmd.git
+	url = git@github.com:rextasy/wmd.git
